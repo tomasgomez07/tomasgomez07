@@ -1,9 +1,14 @@
-### Languages & Technologies
+### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,postgres,nodejs,express,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sql" />
 </a>
 
-### Tools & Software
+### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</a>
+
+### Software & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,cursor,git,github,docker" />
 </a>
