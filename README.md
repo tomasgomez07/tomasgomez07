@@ -1,6 +1,6 @@
 ### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,postgres" />
 </a>
 
 ### Frameworks & Libraries
@@ -9,6 +9,9 @@
 </a>
 
 ### Software & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,cursor,git,github,docker" />
-</a>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" align="center" />
+  </a>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="40" align="center" />
+</p>
